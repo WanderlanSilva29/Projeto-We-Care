@@ -90,3 +90,45 @@ p{
     
 }
 
+@media screen and (max-width:1024px){
+     header{
+        display: none;
+     }
+
+     img{
+        width: 260px;
+        height: 300px;
+        display: inline-block;
+        margin-left: 80px;
+    
+    } 
+    
+
+     h1{
+        font-weight: 700;
+        font-size: 70;
+        width: 200px;   
+
+    }
+
+    h2{
+        font-weight: 300;
+        font-size: 58;
+        width: 200px;
+    }  
+    
+
+     p{
+        width: 200px;
+        margin-top: 25px;
+        margin-bottom: 34px;
+    }
+    
+
+    
+    
+   
+
+
+
+}
